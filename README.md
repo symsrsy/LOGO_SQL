@@ -1,1 +1,1 @@
-# LOGO_SQL
+# LOGO İçin Sql Sorgularım
